@@ -22,9 +22,8 @@ Search through only the file open `Cmd + B`
 
 Search through only the files which are new or have been modified since your last commit `Cmd + B`
 
-
 ### Moving in Atom
-</br>
+
 Go up    `Ctrl + P`
 
 Go down  `Ctrl + N`
@@ -88,7 +87,6 @@ Select the entire contents of the file `Cmd + A`
 Select the entire line `Cmd + L`
 
 Select the current word `Cmd + Shift + W`
-
 
 ### Editing and Deleting Text
 
