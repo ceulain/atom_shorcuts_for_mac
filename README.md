@@ -48,11 +48,11 @@ Move to the bottom of file `Ctrl + ⬇️`
 Move to a specific line `Ctrl + G`
 
 #### Navigation by Symbols
-</br>
+
 Open list of symbols `Cmd + R`
 
 #### Bookmarks
-</br>
+
 Toggle bookmark on current line `Cmd + F2`
 
 Jump to the next bookmark `F2`
@@ -62,7 +62,7 @@ Backward to bookmark `F2`
 List of all your project's current bookmarks `Ctrl + F2`
 
 ### Atom selection
-</br>
+
 Select up `Ctrl + Shift + P`
 
 Select down `Ctrl + Shift + N`
@@ -91,7 +91,7 @@ Select the current word `Cmd + Shift + W`
 
 
 ### Editing and Deleting Text
-</br>
+
 Join the next line to the end of the current line  `Cmd + J`
 
 Move the current line up or down `Cmd + Ctrl +  ⬆️/⬇️`
@@ -107,7 +107,7 @@ Transpose characters. This swaps the two characters on either side of the cursor
 Re-flow a paragraph to hard-wrap `Alt + Cmd + Q`
 
 #### Deleting and Cutting
-</br>
+
 Delete current line `Ctrl+Shift+K`  
 
 Delete to beginning of word `Alt + H`
@@ -122,7 +122,7 @@ Delete to beginning of line `Cmd+Backspace`
 
 
 #### Multiple Cursors and Selections
-<br>
+
 Add a new cursor at the clicked location `Cmd + Click`
 
 Add another cursor above/below the current cursor `Ctrl + Shift+ ⬆️/⬇️`
@@ -135,7 +135,7 @@ Convert a multi-line selection into multiple cursors `Cmd + Shift + L`
 
 
 #### Brackets
-<br>
+
 Jump to the bracket matching the one adjacent to the cursor. It jumps to the nearest enclosing bracket when there's no adjacent bracket. `Ctrl + M`
 
 Select all the text inside the current brackets `Cmd + Ctrl + M`
@@ -144,7 +144,6 @@ Close the current XML/HTML tag `Alt + Cmd + .`
 
 Toggle menu to change file encoding `Ctrl + Shift + U`
 
-
 #### Find and Replace
 
 Search within a buffer `Cmd + F`
@@ -152,7 +151,6 @@ Search within a buffer `Cmd + F`
 Search the entire project `Cmd + Shift + F`
 
 Find next `Cmd + G`
-
 
 ### Folding
 
@@ -167,6 +165,8 @@ Unfold everything `Alt + Cmd + Shift + ]`
 Fold at a specific indentation `Cmd + K` `Cmd + 0-9` (number is the indentation depth)
 
 Fold selection `Alt + Cmd + Ctrl + F`
+
+Reveal file in tree view  `Cmd + |`
 
 ### Panes
 
