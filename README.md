@@ -56,7 +56,7 @@ Toggle bookmark on current line `Cmd + F2`
 
 Jump to the next bookmark `F2`
 
-Backward to bookmark `F2`
+Backward to bookmark `Shift + F2`
 
 List of all your project's current bookmarks `Ctrl + F2`
 
