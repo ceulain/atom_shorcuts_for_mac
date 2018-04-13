@@ -20,7 +20,7 @@ Open fuzzy finder for search file `Cmd + T` or `Cmd + P`
 
 Search through only the file open `Cmd + B`
 
-Search through only the files which are new or have been modified since your last commit `Cmd + B`
+Search through only the files which are new or have been modified since your last commit `Cmd + Shift + B`
 
 ### Moving in Atom
 
