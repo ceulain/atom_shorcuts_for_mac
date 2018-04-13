@@ -86,7 +86,7 @@ Select the entire contents of the file `Cmd + A`
 
 Select the entire line `Cmd + L`
 
-Select the current word `Cmd + Shift + W`
+Select the current word `Ctrl + Shift + W`
 
 ### Editing and Deleting Text
 
