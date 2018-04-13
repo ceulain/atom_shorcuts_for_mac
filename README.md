@@ -1,5 +1,5 @@
 ### Basic Atom
-</br>
+
 Open palette `Cmd + Shift + P`
 
 Open Standard Dialog `Cmd + O`
